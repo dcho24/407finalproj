@@ -3,8 +3,7 @@ from mpl_toolkits import mplot3d
 import numpy
 import matplotlib.pyplot as plt
 
-#Problem 1a:
-
+#Problem 1b:
 #create sphere, we will add points onto the points on the sphere 
 def sphere(axis, radius=1):
     u = numpy.linspace(0, 2 * numpy.pi, 100)
@@ -68,4 +67,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-#Problem 1b:

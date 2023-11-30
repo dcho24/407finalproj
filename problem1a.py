@@ -47,7 +47,7 @@ def main():
     sphere(axis)
 
     #plotting points
-    axis.scatter(x,y,z, color = 'blue')
+    axis.scatter(x,y,z, color = 'green')
 
     #show plot with title
     axis.set_title('Uniform Independent Points on the Sphere')
