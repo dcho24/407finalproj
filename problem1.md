@@ -16,7 +16,10 @@ Matplotlib and Numpy are necessary Python libraries that will be used to create 
 Implementation Descriptions: 
 1a. There are two functions: sphere and generate_points. The sphere function is used to create a 3D representation of a sphere using Numpy to generate the points and then Motplotlib to plot the generated points. The sphere is currently hard coded to have a radius of 1 but can be changed. 
 
-Based on the user input of points (must be at least 1000), there will be 
+Based on the user input of points (must be at least 1000), there will be the same number of uniform, independent points entered by the user onto the hard-coded sphere. 
+
+<img width="447" alt="Screenshot 2023-11-30 at 10 17 21 AM" src="https://github.com/dcho24/407finalproj/assets/89420699/1c4cbc4c-2bd7-4efa-b7ca-8206ebf68e4f">
+
 
 
 1b. 
