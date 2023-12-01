@@ -7,3 +7,4 @@ Implementation Descriptions:
 
 When identifying the regions of Antarctica and Africa on the sphere, it is important to note that the estimation is based on the radius of the sphere being 1. As Antarctica is part of the South Pole, the estimation will be on the southern hemisphere, hence the z <= 0.5. As for Africa, the region was a little difficult to estimate but I was able to estimate it compared to a real 3D map image. The estimation I came up with was (x > 0.35) & (y < 0.5) & (z < 0.5). This is an extremely rough estimation to replicate the locations of Antarctica and Africa on our sphere.
 
+When comparing results with actual results, the errors are dependent on actual user input in this case. The accuracy would heavily improve if more points were on the surface since there would be more accurate area for the Earth to represent the sphere. Without many points, this can create lots of relative error. 

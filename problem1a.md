@@ -37,5 +37,3 @@ Couple visualization examples below:
 3000 Randomly Generated Uniform, Independent Points:
 <img width="499" alt="Screenshot 2023-11-30 at 10 34 17 AM" src="https://github.com/dcho24/407finalproj/assets/89420699/84794f70-a567-44a2-81b7-3405247cffea">
 
-
-1b.     
